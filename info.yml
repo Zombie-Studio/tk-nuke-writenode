@@ -88,7 +88,7 @@ configuration:
         type: bool
         description: "Setting this to True will add actions for converting to and from Shotgun write nodes.
                       The actions will be displayed as options in the Shotgun -> Context menu"
-        default_value: False
+        default_value: True
 
     template_script_work:
         type: template
